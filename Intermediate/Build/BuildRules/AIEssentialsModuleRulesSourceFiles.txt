@@ -1,0 +1,3 @@
+/Users/davidlehman/Documents/Unreal Projects/AIEssentials/Source/AIEssentials/AIEssentials.Build.cs
+/Users/davidlehman/Documents/Unreal Projects/AIEssentials/Source/AIEssentials.Target.cs
+/Users/davidlehman/Documents/Unreal Projects/AIEssentials/Source/AIEssentialsEditor.Target.cs
